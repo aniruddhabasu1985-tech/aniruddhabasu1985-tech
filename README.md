@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm **Aniruddha Basu** — Senior TAC Project Manager at Movate Technologies, building AI agent tools at the intersection of customer-support operations and responsible AI.
+I'm **Aniruddha Basu** — Senior Project Manager, building AI agent tools at the intersection of customer-support operations and responsible AI.
 
 ### 🤖 AI Agent Portfolio
 
