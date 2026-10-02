@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**aniruddhabasu1985-tech/aniruddhabasu1985-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Aniruddha Basu** — Senior TAC Project Manager at Movate Technologies, building AI agent tools at the intersection of customer-support operations and responsible AI.
 
-Here are some ideas to get you started:
+### 🤖 AI Agent Portfolio
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **ClearCount** — independent AI resolution-claim auditor, 65.5× ROI ([Clearcount-AI](https://github.com/aniruddhabasu1985-tech/Clearcount-AI))
+🔹 **FirstLine AI** — governed agentic copilot for Tier-1 technical support, 7-agent ensemble with HITL ([firstline-ai](https://github.com/aniruddhabasu1985-tech/firstline-ai))
+🔹 **TrueResolve AI** — measures true resolution vs deflection rate ([trueresolve-AI](https://github.com/aniruddhabasu1985-tech/trueresolve-AI))
+🔹 **Sentinel CX** — governed multi-agent AI for proactive CX with explicit guardrails and audit trails ([sentinel-cx](https://github.com/aniruddhabasu1985-tech/sentinel-cx))
+
+### 📫 Connect
+- LinkedIn: [in/aniruddha-basu-pmp](https://linkedin.com/in/aniruddha-basu-pmp)
+- 
