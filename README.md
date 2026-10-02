@@ -8,6 +8,7 @@ I'm **Aniruddha Basu** — Senior Project Manager, building AI agent tools at th
 🔹 **FirstLine AI** — governed agentic copilot for Tier-1 technical support, 7-agent ensemble with HITL ([firstline-ai](https://github.com/aniruddhabasu1985-tech/firstline-ai))
 🔹 **TrueResolve AI** — measures true resolution vs deflection rate ([trueresolve-AI](https://github.com/aniruddhabasu1985-tech/trueresolve-AI))
 🔹 **Sentinel CX** — governed multi-agent AI for proactive CX with explicit guardrails and audit trails ([sentinel-cx](https://github.com/aniruddhabasu1985-tech/sentinel-cx))
+- **[SunsetIQ](https://github.com/aniruddhabasu1985-tech/sunsetiq-ai)** — governed legacy-application retirement planning with a decision-model routing layer.
 
 ### 📫 Connect
 - LinkedIn: [in/aniruddha-basu-pmp](https://linkedin.com/in/aniruddha-basu-pmp)
